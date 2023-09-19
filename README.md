@@ -1,5 +1,5 @@
-# CSE274
-Coursework for CSE 274 - Data Abstraction and Data Structures
+# CSE274: Data Abstraction and Data Structures
+Welcome to the GitHub repository for CSE274: Data Abstraction and Data Structures! This repository contains all the labs and homework assignments for the Fall 2022 course taught by Dr. Seyed Mahdi Ghamkhari.
 
 ## Course Description: Abstract data types (ADT) and their implementation as data structures using object-oriented
 programming. Use of object-oriented principles in the selection and analysis of various ADT
